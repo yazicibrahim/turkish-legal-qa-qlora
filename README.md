@@ -1,6 +1,6 @@
 # ⚖️ Turkish Legal QA — LLaMA-2 + QLoRA + RAG
 
-> **TÜBİTAK 2209-A** destekli lisans tez projesi | Karadeniz Teknik Üniversitesi
+> **TÜBİTAK 2209-Araştırma Projesi destekli lisans tez projesi | Karadeniz Teknik Üniversitesi
 
 Türk iş hukuku alanında soru-cevap yapabilen, **LLaMA-2-7B-Chat** üzerine **QLoRA** ile fine-tune edilmiş ve **FAISS tabanlı RAG pipeline** ile güçlendirilmiş bir yapay zeka sistemi.
 
